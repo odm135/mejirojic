@@ -2,7 +2,7 @@
 日本女子大学の文化祭で制作したゲーム「めじろじっく」の最終版とソースコード
 
 - WebBuild/inedx.html: 最終版のゲームをプレイできるページ
-- Scripts: ソースコード一覧
+- Project: Unityのプロジェクト (使用したフリー素材等は削除しています)
 
 こちらのURLからプレイできます  
 https://odm135.github.io/mejirojic/WebBuild/index.html
